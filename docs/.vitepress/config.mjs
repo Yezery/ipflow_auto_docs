@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "IPFLOW Automation",
   description: "IPFLOW 日活自动化使用说明",
-  base:"/repo/",
+  base:"/ipflow_auto_docs/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/icon.svg",
