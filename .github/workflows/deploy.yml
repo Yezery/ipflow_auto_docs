@@ -33,7 +33,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 22
           cache: pnpm # 设置缓存
       - name: Setup Pages
         uses: actions/configure-pages@v5  # 在工作流程自动配置GithubPages
