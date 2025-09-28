@@ -1,0 +1,5 @@
+/docs_dev
+/node_modules
+package.json
+pnpm-lock.yaml
+docs/.DS_Store
