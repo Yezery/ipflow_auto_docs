@@ -12,7 +12,7 @@ export default defineConfig({
     nav: [
       { text: "主页", link: "/" },
       { text: "快速开始", link: "/get-start" },
-      { text: "Q&A", link: "/Q&A" },
+      { text: "Q&A", link: "/QA" },
     ],
 
     sidebar: [
@@ -21,7 +21,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: "快速开始", link: "/get-start" },
-          { text: "Q&A", link: "/Q&A" },
+          { text: "Q&A", link: "/QA" },
         ],
       },
     ],
