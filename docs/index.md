@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 开始使用
-      link: /快速开始
+      link: /get-start
 
 
 features:
