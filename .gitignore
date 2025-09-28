@@ -1,5 +1,6 @@
 .idea
 .DS_Store
 node_modules
+/.github
 /docs/.vitepress/dist
 /docs/.vitepress/cache
